@@ -1,0 +1,16 @@
+# directories
+**/bin/
+**/obj/
+**/out/
+**/.vscode
+**/.vs
+
+# files
+Dockerfile*
+**/*.trx
+**/*.md
+**/*.ps1
+**/*.cmd
+**/*.sh
+.dotnet
+.Microsoft.DotNet.ImageBuilder
