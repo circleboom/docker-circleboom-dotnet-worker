@@ -28,7 +28,7 @@ To immediately run your image:
 docker run --rm docker-circleboom-dotnet-worker
 ```
 
-> Since this is app based on [`dotnet worker` template](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/) the output will be immediately printed on console as you run it.
+> Since this app is based on [`dotnet worker` template](https://devblogs.microsoft.com/aspnet/net-core-workers-as-windows-services/), it will immediately print the output on the console when you run it.
 ```
 info: docker_circleboom_dotnet_worker.Worker[0]
       Worker running at: 01/26/2021 20:12:43 +00:00
